@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>intermediate &#8211; jsDay 2014</title>
+	<atom:link href="/level/intermediate/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The international Javascript Conference</description>
+	<lastBuildDate>Tue, 13 May 2014 21:24:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>You have ruined JS</title>
+		<link>/talk/you-have-ruined-js/</link>
+		<pubDate>Tue, 29 Apr 2014 20:35:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=337</guid>
+		<description><![CDATA[It&#8217;s time to have a conversation about JavaScript. You see, I think you&#8217;re ruining it. You with your frameworks and your layers of indirection and directives. You with your angulars and your embers and your backbones and your model view controllers. So we&#8217;re going to have this conversation and see if we can&#8217;t straighten a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span style="color: #222222;">It&#8217;s time to have a conversation about JavaScript. You see, I think you&#8217;re ruining it. You with your frameworks and your layers of indirection and directives. You with your angulars and your embers and your backbones and your model view controllers. So we&#8217;re going to have this conversation and see if we can&#8217;t straighten a few things up &#8211; nice and gentle like. This will only take a few moments of your time after which everything will be different.</span></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>AngularJs for Mobile</title>
+		<link>/talk/angularjs-for-mobile/</link>
+		<pubDate>Tue, 08 Apr 2014 19:09:18 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=320</guid>
+		<description><![CDATA[You should always think mobile first when you work on web stuff. Your ui should care about touch events, multi-touch and mouse as well. Mobile devices are not powerful as desktop one, you should take care of performance and download time. Maybe is better to have an optimized version for mobile users. How can you [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>You should always think mobile first when you work on web stuff.<br />
+Your ui should care about touch events, multi-touch and mouse as well.<br />
+Mobile devices are not powerful as desktop one, you should take care of performance and download time.<br />
+Maybe is better to have an optimized version for mobile users. How can you be DRY with two angular applications?<br />
+An app is always better than a website, but do you really need to outsourcing your app, why not use HTML, CSS, and Javascript instead?</p>
+<p>&#8211; responsive<br />
+&#8211; touch, gestures &amp; ngTouch<br />
+&#8211; performance<br />
+&#8211; compatibility<br />
+&#8211; handle multiple SPA<br />
+&#8211; ionic<br />
+&#8211; phonegap &amp; cordoba</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Agile CSS development with Compass/SASS</title>
+		<link>/talk/agile-css-development-with-compasssass/</link>
+		<pubDate>Tue, 08 Apr 2014 19:05:33 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=318</guid>
+		<description><![CDATA[CSS is not a complete language, it misses variables, functions, nesting, partials and math. SASS makes easy to create CSS for complex sites. Compass allows you to do easy spriting, easier debugging, and more. In this speech I&#8217;ll show you the main features of SASS, Compass, how to install it, and why you will never [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>CSS is not a complete language, it misses variables, functions, nesting, partials and math. SASS makes easy to create CSS for complex sites. Compass allows you to do easy spriting, easier debugging, and more. In this speech I&#8217;ll show you the main features of SASS, Compass, how to install it, and why you will never ever create any other site without it.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Performance Testing Crash Course</title>
+		<link>/talk/performance-testing-crash-course/</link>
+		<pubDate>Thu, 27 Mar 2014 12:17:33 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=314</guid>
+		<description><![CDATA[The performance of your application affects your business more than you might think. Top engineering organizations think of performance not as a nice-to-have, but as a crucial feature of their product. Those organizations understand that performance has a direct impact on user experience and, ultimately, their bottom line. Unfortunately, most engineering teams do not regularly [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The performance of your application affects your business more than you might think. Top engineering organizations think of performance not as a nice-to-have, but as a crucial feature of their product. Those organizations understand that performance has a direct impact on user experience and, ultimately, their bottom line. Unfortunately, most engineering teams do not regularly test the performance and scalability of their infrastructure. Dustin Whittle shares the latest performance testing tools and insights into why your team should add performance testing to an agile development process. Learn how to evaluate performance and scalability with MultiMechanize, Bees with Machine Guns, and Google PageSpeed. Take back an understanding of how to automate performance testing and evaluate the impact it has on performance and your business.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Test like it&#8217;s 19.. 2014!</title>
+		<link>/talk/test-like-its-19-2014/</link>
+		<pubDate>Wed, 26 Mar 2014 19:10:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=310</guid>
+		<description><![CDATA[During my speech I&#8217;d like to present Appium &#8211; a mobile native/hybrid/webview testing tool built by my company Sauce Labs.]]></description>
+				<content:encoded><![CDATA[<p>During my speech I&#8217;d like to present Appium &#8211; a mobile native/hybrid/webview testing tool built by my company Sauce Labs.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>The strange world of Javascript and all its little asynchronous beasts</title>
+		<link>/talk/the-strange-world-of-javascript-and-all-its-little-asynchronous-beasts/</link>
+		<pubDate>Wed, 26 Mar 2014 09:02:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=308</guid>
+		<description><![CDATA[Javascript is a wonderland populated by all kinds of exotic beasts. Callbacks, events, promises, functional programming, reactive programming, streams, generators are all part of this incredible asynchronous bestiary. We&#8217;re talking of insidious or even ferocious things, a great danger to the unwary programmer. Let&#8217;s look at them, learn from them, tame them and finally put [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Javascript is a wonderland populated by all kinds of exotic beasts. Callbacks, events, promises, functional programming, reactive programming, streams, generators are all part of this incredible asynchronous bestiary. We&#8217;re talking of insidious or even ferocious things, a great danger to the unwary programmer. Let&#8217;s look at them, learn from them, tame them and finally put them to our own advantage. Let&#8217;s stop Javascript from being an unfamiliar place and make it feel much more like home.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>The fourth dimension</title>
+		<link>/talk/the-fourth-dimension/</link>
+		<pubDate>Wed, 26 Mar 2014 08:59:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=306</guid>
+		<description><![CDATA[In the spacetime model, the fourth dimension is time. In this talk I will show how to transform and manipulate events happening in different moments in time the same way that we transform Arrays or normal sequences, by using the power of Functional Reactive Programming. This will allow us to unite synchronous and asynchronous code [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In the spacetime model, the fourth dimension is time. In this talk I will show how to transform and manipulate events happening in different moments in time the same way that we transform Arrays or normal sequences, by using the power of Functional Reactive Programming. This will allow us to unite synchronous and asynchronous code in a way that will help us reason about complex code and build applications that are powerful, reliable and simple to understand.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>React.js &#8211; The smart, brute force DOM re-rendering revolution</title>
+		<link>/talk/react-js-the-smart-brute-force-dom-re-rendering-revolution/</link>
+		<pubDate>Tue, 25 Mar 2014 19:28:34 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=303</guid>
+		<description><![CDATA[When data changes, or users interact with our application, we have to update parts of our DOM. Set a class, remove a node, or update the text of an element. This is complicated and needs clever, error-prone code. With React.js the Facebook team introduces a revolutionary brute-force solution to this problem: Simply re-render all your page whenever anything changes. This [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>When data changes, or users interact with our application, we have to update parts of our DOM. Set a class, remove a node, or update the text of an element. This is complicated and needs clever, error-prone code.</p>
+<p>With React.js the Facebook team introduces a revolutionary brute-force solution to this problem: Simply re-render all your page whenever anything changes. This completely changes the way we can develop web-applications. The code-base remains small and very simple while, believe it or not, performing really well. Even on IE8!</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Further Adventures of Hyperaudio</title>
+		<link>/talk/further-adventures-of-hyperaudio/</link>
+		<pubDate>Tue, 25 Mar 2014 13:12:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=301</guid>
+		<description><![CDATA[When you transcribe media you open it up, when you give words timings something magical happens. Mark has been experimenting with Hyperaudio for years now, last year Hyperaudio received funding and the nonprofit Hyperaudio Inc was born! Mark will explain Hyperaudio, show examples and talk about his adventures with both clientside and serverside JavaScript in [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>When you transcribe media you open it up, when you give words timings something magical happens. Mark has been experimenting with Hyperaudio for years now, last year Hyperaudio received funding and the nonprofit Hyperaudio Inc was born!</p>
+<p>Mark will explain Hyperaudio, show examples and talk about his adventures with both clientside and serverside JavaScript in his mission to set up the open source Hyperaudio ecosystem. He&#8217;ll also show you how to create your own Hyperaudio applications with the newly minted Hyperaudio.js and a supporting API.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Algorithms are bioluminescent creatures of the deep sea</title>
+		<link>/talk/algorithms-are-bioluminescent-creatures-of-the-deep-sea/</link>
+		<pubDate>Sun, 23 Mar 2014 19:24:06 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=292</guid>
+		<description><![CDATA[Quicksort. Heapsort. Bubblesort. Sorting algorithms are computational processes used to organize elements of a sequence in a certain order. In the last few months I have tried to understand and transform the data left behind sorting algorithms into visual forms that could help highlight the unique characteristics of each algorithm and find hidden patterns. SORTING [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Quicksort. Heapsort. Bubblesort. Sorting algorithms are computational processes used to organize elements of a sequence in a certain order. In the last few months I have tried to understand and transform the data left behind sorting algorithms into visual forms that could help highlight the unique characteristics of each algorithm and find hidden patterns.<br />
+SORTING (http://sorting.at)/ is the result of this exploration.<br />
+In this session I will examine some of the most famous and interesting sorting algorithms through their history, implementation and visualization.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: 2014.jsday.it @ 2017-02-13 22:27:43 by W3 Total Cache -->

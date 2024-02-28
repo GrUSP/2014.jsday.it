@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>advanced &#8211; jsDay 2014</title>
+	<atom:link href="/level/advanced/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The international Javascript Conference</description>
+	<lastBuildDate>Tue, 13 May 2014 21:24:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>Make your Backbone applications dance!</title>
+		<link>/talk/make-your-backbone-applications-dance/</link>
+		<pubDate>Tue, 08 Apr 2014 19:15:40 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=322</guid>
+		<description><![CDATA[Building Backbone applications quickly became a de-facto standard, though we can&#8217;t really define it as framework but rather just as foundation to create other frameworks. If you like Backbone, you&#8217;ll fall in love with Marionette, the best application library to create large scale Javascript applications. Nicholas will explain the framework, show examples and talk about [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Building Backbone applications quickly became a de-facto standard, though we can&#8217;t really define it as framework but rather just as foundation to create other frameworks.</p>
+<div>
+<p>If you like Backbone, you&#8217;ll fall in love with Marionette, the best application library to create large scale Javascript applications.</p>
+<p>Nicholas will explain the framework, show examples and talk about some projects like <a href="http://cronycle.com/" target="_blank">cronycle.com</a> that have been delivered to production using Marionette.</p>
+</div>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Monads, Promises, and Reactive Metaprogramming</title>
+		<link>/talk/monads-promises-and-reactive-metaprogramming/</link>
+		<pubDate>Wed, 26 Mar 2014 08:56:07 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=304</guid>
+		<description><![CDATA[Prerequisites: having followed Federico Galassi&#8217;s or Sergi Mansilla&#8217;s talk (either is fine), or just having an idea on what rx.js does. Javascript programmers are often struggling with asynchronous control flows. It does not matter if the sources of time warping are AJAX requests, the nodejs event loop, or a simple flow of events from the DOM: the result regularly [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span style="color: #222222;"><strong>Prerequisites</strong>: having followed Federico Galassi&#8217;s or Sergi Mansilla&#8217;s </span><span style="color: #222222;">talk (either is fine), or just having an idea on what rx.js does.</span></p>
+<p><span style="color: #222222;">Javascript programmers are often struggling with asynchronous control </span><span style="color: #222222;">flows. It does not matter if the sources of time warping are AJAX </span><span style="color: #222222;">requests, the nodejs event loop, or a simple flow of events from the </span><span style="color: #222222;">DOM: the result regularly converges to callback hell.</span><br style="color: #222222;" /><br style="color: #222222;" /><span style="color: #222222;">There are a lot of libraries and frameworks that try to address this </span><span style="color: #222222;">problem now. If we don&#8217;t like them (and have time to waste) we can </span><span style="color: #222222;">always wait for the ECMA committee and the browser vendors to do their </span><span style="color: #222222;">job, adding proper async support to the language in the future.</span><br style="color: #222222;" /><br style="color: #222222;" /><span style="color: #222222;">We will see how monadic sequencing is at the root of most of those </span><span style="color: #222222;">frameworks, and how a language with a programmable syntax can make </span><span style="color: #222222;">your code cleaner now, without waiting for ES6 generators or ES7 async </span><span style="color: #222222;">functions.</span></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Ember.js at Scale</title>
+		<link>/talk/ember-js-at-scale/</link>
+		<pubDate>Tue, 25 Mar 2014 07:03:07 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=296</guid>
+		<description><![CDATA[Zendesk was one of the first companies to use Ember in a large scale production application. With over 200,000,000 users making 70,000 requests per minute at daily peak times, we&#8217;re pushing the boundaries of single page application development performance. Once the API stabilized, we&#8217;ve embarked on the upgrade path to Ember 1.X and wanted to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Zendesk was one of the first companies to use Ember in a large scale production application. With over 200,000,000 users making 70,000 requests per minute at daily peak times, we&#8217;re pushing the boundaries of single page application development performance. Once the API stabilized, we&#8217;ve embarked on the upgrade path to Ember 1.X and wanted to share our best practices/lessons learned from this journey.</p>
+<p>In this session, we&#8217;ll cover performance optimizations and design patterns used to achieve scalability including:</p>
+<p>* Deferred loading<br />
+* Boot optimizations<br />
+* Using null controller pattern for performance<br />
+* Proper usage of Ember primitives<br />
+* Custom mixins<br />
+* Working with high performance HTTP APIs<br />
+* Ember core framework customizations</p>
+<p>We&#8217;ll also talk about the challenges faced when migrating from 0.9X to 1.X and the tools we&#8217;ve developed to ease the transition, improve code quality, and speed up development as we&#8217;ve grown our codebase.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: 2014.jsday.it @ 2017-02-13 22:27:45 by W3 Total Cache -->

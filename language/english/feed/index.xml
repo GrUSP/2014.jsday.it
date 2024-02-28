@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>english &#8211; jsDay 2014</title>
+	<atom:link href="/language/english/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The international Javascript Conference</description>
+	<lastBuildDate>Tue, 13 May 2014 21:24:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>Promise to test it!</title>
+		<link>/talk/promise-to-test-it/</link>
+		<pubDate>Tue, 13 May 2014 21:24:59 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=348</guid>
+		<description><![CDATA[Properly testing a stateful system &#8211; like a typical web api &#8211; is hard. Doing it in JavaScript is even harder, because semantics easily drown in callback hell. Most folks out there are starting to use promises to solve it, or at least imagining so. Unfortunately very few developers have understood how to leverage this [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span style="color: #222222;">Properly testing a stateful system &#8211; like a typical web api &#8211; is hard. Doing it in JavaScript is even harder, because semantics easily drown in callback hell. Most folks out there are starting to use promises to solve it, or at least imagining so. Unfortunately very few developers have understood how to leverage this wizardy correctly. So let&#8217;s find out! This talk will explore the full power of promises, in the context of TDD, and reveal a few surprises too.</span></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Frameworkless JavaScript with npm and browserify</title>
+		<link>/talk/frameworkless-javascript-with-npm-and-browserify/</link>
+		<pubDate>Mon, 12 May 2014 17:18:52 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=347</guid>
+		<description><![CDATA[I don&#8217;t tend to use frameworks, as a personal preference I like feature driven, organic code bases. This often leads to questions about structure and organisation. Come along to find out how simple life can be without frameworks, and what the world looks like when you&#8217;re not limited by the chains they bring.]]></description>
+				<content:encoded><![CDATA[<div style="color: #222222;">I don&#8217;t tend to use frameworks, as a personal preference I like feature driven, organic code bases. This often leads to questions about structure and organisation.</div>
+<div style="color: #222222;">Come along to find out how simple life can be without frameworks, and what the world looks like when you&#8217;re not limited by the chains they bring.</div>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>You have ruined JS</title>
+		<link>/talk/you-have-ruined-js/</link>
+		<pubDate>Tue, 29 Apr 2014 20:35:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=337</guid>
+		<description><![CDATA[It&#8217;s time to have a conversation about JavaScript. You see, I think you&#8217;re ruining it. You with your frameworks and your layers of indirection and directives. You with your angulars and your embers and your backbones and your model view controllers. So we&#8217;re going to have this conversation and see if we can&#8217;t straighten a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span style="color: #222222;">It&#8217;s time to have a conversation about JavaScript. You see, I think you&#8217;re ruining it. You with your frameworks and your layers of indirection and directives. You with your angulars and your embers and your backbones and your model view controllers. So we&#8217;re going to have this conversation and see if we can&#8217;t straighten a few things up &#8211; nice and gentle like. This will only take a few moments of your time after which everything will be different.</span></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Universal Windows Apps loves JavaScript!</title>
+		<link>/talk/universal-windows-apps-loves-javascript/</link>
+		<pubDate>Wed, 23 Apr 2014 20:23:49 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=334</guid>
+		<description><![CDATA[Would you like to use JavaScript to natively program not only on the web, but also on phones, tablets, desktop and even more devices? This session gives you fresh new air on what you can do today and tomorrow with JavaScript on Windows Platform and beyond! And we give you an update on the latest [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Would you like to use JavaScript to natively program not only on the web, but also on phones, tablets, desktop and even more devices? This session gives you fresh new air on what you can do today and tomorrow with JavaScript on Windows Platform and beyond! And we give you an update on the latest news on the open source journey!</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Javascript, metaprogramming, and you</title>
+		<link>/talk/javascript-metaprogramming-and-you/</link>
+		<pubDate>Wed, 23 Apr 2014 20:11:17 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=333</guid>
+		<description><![CDATA[We all know that Javascript is powerful but it can be a really terrible language when misused. Moreover, it lacks several advanced features that are taken forgranted in other languages.One technique that is always overlooked is metaprogramming: hystorically only lisp dialects support it properly, and programmers regularly underestimate its power.In the spirit of Coffeescript, Typescript, Clojurescript and other similar projects [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span style="color: #222222;">We all know that Javascript is powerful but it can be a really </span><span style="color: #222222;">terrible language when misused. </span><span style="color: #222222;">Moreover, it lacks several advanced features that are taken for</span><br style="color: #222222;" /><span style="color: #222222;">granted in other languages.</span><br style="color: #222222;" /><br style="color: #222222;" /><span style="color: #222222;">One technique that is always overlooked is metaprogramming: </span><span style="color: #222222;">hystorically only lisp dialects support it properly, and programmers </span><span style="color: #222222;">regularly underestimate its power.</span><br style="color: #222222;" /><br style="color: #222222;" /><span style="color: #222222;">In the spirit of Coffeescript, Typescript, Clojurescript and other </span><span style="color: #222222;">similar projects I have developed Metascript, which is designed to </span><span style="color: #222222;">provide everything those languages offer, and then some, with a strong </span><span style="color: #222222;">emphasis on metaprogramming.</span><br style="color: #222222;" /><br style="color: #222222;" /><span style="color: #222222;">We’ll have a quick tour of the language and see how it solves a lot of </span><span style="color: #222222;">the problems that we need to deal with every day when writing code.</span></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Flow-Based Programming for JavaScript</title>
+		<link>/talk/flow-based-programming-for-javascript/</link>
+		<pubDate>Wed, 16 Apr 2014 19:54:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=330</guid>
+		<description><![CDATA[NoFlo is a flow-based programming environment for JavaScript. Originally built for Node.js systems automation, it can also be used for developing full-stack applications from the browser to microcontrollers like Arduino. With NoFlo developers build their applications by wiring data streams together between different pre-built or custom components. The NoFlo environment is fully browser-based and can [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span style="color: #000000;">NoFlo is a flow-based programming environment for JavaScript. Originally built for Node.js systems automation, it can also be used for developing full-stack applications from the browser to microcontrollers like Arduino.</p>
+<p>With NoFlo developers build their applications by wiring data streams together between different pre-built or custom components. The NoFlo environment is fully browser-based and can connect to NoFlo instances running on remote servers, allowing inspection and rewiring of running software.</p>
+<p>The NoFlo development environment is open source and was successfully crowdfunded on Kickstarter in fall 2013. Now it is time to show the world how it works.</p>
+<p>You can learn more about NoFlo at http://noflojs.org/</span></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Web Audio API: the modular synth and sound processor at your fingertips</title>
+		<link>/talk/web-audio-api-the-modular-synth-and-sound-processor-at-your-fingertips/</link>
+		<pubDate>Tue, 08 Apr 2014 19:32:33 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=324</guid>
+		<description><![CDATA[Given its modularity the Web Audio API is a powerful tool to build audio applications in the browser. This talk will give a short overview on the API and an in-depth look at some of the technologies used to make it work. It will also include a short introduction to the most important properties and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Given its modularity the Web Audio API is a powerful tool to build audio applications in the browser. This talk will give a short overview on the API and an in-depth look at some of the technologies used to make it work. It will also include a short introduction to the most important properties and problems of digital sound processing.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Make your Backbone applications dance!</title>
+		<link>/talk/make-your-backbone-applications-dance/</link>
+		<pubDate>Tue, 08 Apr 2014 19:15:40 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=322</guid>
+		<description><![CDATA[Building Backbone applications quickly became a de-facto standard, though we can&#8217;t really define it as framework but rather just as foundation to create other frameworks. If you like Backbone, you&#8217;ll fall in love with Marionette, the best application library to create large scale Javascript applications. Nicholas will explain the framework, show examples and talk about [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Building Backbone applications quickly became a de-facto standard, though we can&#8217;t really define it as framework but rather just as foundation to create other frameworks.</p>
+<div>
+<p>If you like Backbone, you&#8217;ll fall in love with Marionette, the best application library to create large scale Javascript applications.</p>
+<p>Nicholas will explain the framework, show examples and talk about some projects like <a href="http://cronycle.com/" target="_blank">cronycle.com</a> that have been delivered to production using Marionette.</p>
+</div>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>AngularJs for Mobile</title>
+		<link>/talk/angularjs-for-mobile/</link>
+		<pubDate>Tue, 08 Apr 2014 19:09:18 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=320</guid>
+		<description><![CDATA[You should always think mobile first when you work on web stuff. Your ui should care about touch events, multi-touch and mouse as well. Mobile devices are not powerful as desktop one, you should take care of performance and download time. Maybe is better to have an optimized version for mobile users. How can you [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>You should always think mobile first when you work on web stuff.<br />
+Your ui should care about touch events, multi-touch and mouse as well.<br />
+Mobile devices are not powerful as desktop one, you should take care of performance and download time.<br />
+Maybe is better to have an optimized version for mobile users. How can you be DRY with two angular applications?<br />
+An app is always better than a website, but do you really need to outsourcing your app, why not use HTML, CSS, and Javascript instead?</p>
+<p>&#8211; responsive<br />
+&#8211; touch, gestures &amp; ngTouch<br />
+&#8211; performance<br />
+&#8211; compatibility<br />
+&#8211; handle multiple SPA<br />
+&#8211; ionic<br />
+&#8211; phonegap &amp; cordoba</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Agile CSS development with Compass/SASS</title>
+		<link>/talk/agile-css-development-with-compasssass/</link>
+		<pubDate>Tue, 08 Apr 2014 19:05:33 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=318</guid>
+		<description><![CDATA[CSS is not a complete language, it misses variables, functions, nesting, partials and math. SASS makes easy to create CSS for complex sites. Compass allows you to do easy spriting, easier debugging, and more. In this speech I&#8217;ll show you the main features of SASS, Compass, how to install it, and why you will never [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>CSS is not a complete language, it misses variables, functions, nesting, partials and math. SASS makes easy to create CSS for complex sites. Compass allows you to do easy spriting, easier debugging, and more. In this speech I&#8217;ll show you the main features of SASS, Compass, how to install it, and why you will never ever create any other site without it.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: 2014.jsday.it @ 2017-02-13 22:27:43 by W3 Total Cache -->

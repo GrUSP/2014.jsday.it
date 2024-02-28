@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Federico Galassi &#8211; jsDay 2014</title>
+	<atom:link href="/speakers/federico-galassi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The international Javascript Conference</description>
+	<lastBuildDate>Tue, 13 May 2014 21:24:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>The strange world of Javascript and all its little asynchronous beasts</title>
+		<link>/talk/the-strange-world-of-javascript-and-all-its-little-asynchronous-beasts/</link>
+		<pubDate>Wed, 26 Mar 2014 09:02:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=308</guid>
+		<description><![CDATA[Javascript is a wonderland populated by all kinds of exotic beasts. Callbacks, events, promises, functional programming, reactive programming, streams, generators are all part of this incredible asynchronous bestiary. We&#8217;re talking of insidious or even ferocious things, a great danger to the unwary programmer. Let&#8217;s look at them, learn from them, tame them and finally put [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Javascript is a wonderland populated by all kinds of exotic beasts. Callbacks, events, promises, functional programming, reactive programming, streams, generators are all part of this incredible asynchronous bestiary. We&#8217;re talking of insidious or even ferocious things, a great danger to the unwary programmer. Let&#8217;s look at them, learn from them, tame them and finally put them to our own advantage. Let&#8217;s stop Javascript from being an unfamiliar place and make it feel much more like home.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: 2014.jsday.it @ 2017-02-13 22:27:47 by W3 Total Cache -->

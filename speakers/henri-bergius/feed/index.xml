@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Henri Bergius &#8211; jsDay 2014</title>
+	<atom:link href="/speakers/henri-bergius/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The international Javascript Conference</description>
+	<lastBuildDate>Tue, 13 May 2014 21:24:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>Flow-Based Programming for JavaScript</title>
+		<link>/talk/flow-based-programming-for-javascript/</link>
+		<pubDate>Wed, 16 Apr 2014 19:54:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=330</guid>
+		<description><![CDATA[NoFlo is a flow-based programming environment for JavaScript. Originally built for Node.js systems automation, it can also be used for developing full-stack applications from the browser to microcontrollers like Arduino. With NoFlo developers build their applications by wiring data streams together between different pre-built or custom components. The NoFlo environment is fully browser-based and can [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span style="color: #000000;">NoFlo is a flow-based programming environment for JavaScript. Originally built for Node.js systems automation, it can also be used for developing full-stack applications from the browser to microcontrollers like Arduino.</p>
+<p>With NoFlo developers build their applications by wiring data streams together between different pre-built or custom components. The NoFlo environment is fully browser-based and can connect to NoFlo instances running on remote servers, allowing inspection and rewiring of running software.</p>
+<p>The NoFlo development environment is open source and was successfully crowdfunded on Kickstarter in fall 2013. Now it is time to show the world how it works.</p>
+<p>You can learn more about NoFlo at http://noflojs.org/</span></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: 2014.jsday.it @ 2017-02-13 22:27:46 by W3 Total Cache -->

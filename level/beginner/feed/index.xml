@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>beginner &#8211; jsDay 2014</title>
+	<atom:link href="/level/beginner/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The international Javascript Conference</description>
+	<lastBuildDate>Tue, 13 May 2014 21:24:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>Promise to test it!</title>
+		<link>/talk/promise-to-test-it/</link>
+		<pubDate>Tue, 13 May 2014 21:24:59 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=348</guid>
+		<description><![CDATA[Properly testing a stateful system &#8211; like a typical web api &#8211; is hard. Doing it in JavaScript is even harder, because semantics easily drown in callback hell. Most folks out there are starting to use promises to solve it, or at least imagining so. Unfortunately very few developers have understood how to leverage this [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span style="color: #222222;">Properly testing a stateful system &#8211; like a typical web api &#8211; is hard. Doing it in JavaScript is even harder, because semantics easily drown in callback hell. Most folks out there are starting to use promises to solve it, or at least imagining so. Unfortunately very few developers have understood how to leverage this wizardy correctly. So let&#8217;s find out! This talk will explore the full power of promises, in the context of TDD, and reveal a few surprises too.</span></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Frameworkless JavaScript with npm and browserify</title>
+		<link>/talk/frameworkless-javascript-with-npm-and-browserify/</link>
+		<pubDate>Mon, 12 May 2014 17:18:52 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=347</guid>
+		<description><![CDATA[I don&#8217;t tend to use frameworks, as a personal preference I like feature driven, organic code bases. This often leads to questions about structure and organisation. Come along to find out how simple life can be without frameworks, and what the world looks like when you&#8217;re not limited by the chains they bring.]]></description>
+				<content:encoded><![CDATA[<div style="color: #222222;">I don&#8217;t tend to use frameworks, as a personal preference I like feature driven, organic code bases. This often leads to questions about structure and organisation.</div>
+<div style="color: #222222;">Come along to find out how simple life can be without frameworks, and what the world looks like when you&#8217;re not limited by the chains they bring.</div>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Universal Windows Apps loves JavaScript!</title>
+		<link>/talk/universal-windows-apps-loves-javascript/</link>
+		<pubDate>Wed, 23 Apr 2014 20:23:49 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=334</guid>
+		<description><![CDATA[Would you like to use JavaScript to natively program not only on the web, but also on phones, tablets, desktop and even more devices? This session gives you fresh new air on what you can do today and tomorrow with JavaScript on Windows Platform and beyond! And we give you an update on the latest [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Would you like to use JavaScript to natively program not only on the web, but also on phones, tablets, desktop and even more devices? This session gives you fresh new air on what you can do today and tomorrow with JavaScript on Windows Platform and beyond! And we give you an update on the latest news on the open source journey!</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Javascript, metaprogramming, and you</title>
+		<link>/talk/javascript-metaprogramming-and-you/</link>
+		<pubDate>Wed, 23 Apr 2014 20:11:17 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=333</guid>
+		<description><![CDATA[We all know that Javascript is powerful but it can be a really terrible language when misused. Moreover, it lacks several advanced features that are taken forgranted in other languages.One technique that is always overlooked is metaprogramming: hystorically only lisp dialects support it properly, and programmers regularly underestimate its power.In the spirit of Coffeescript, Typescript, Clojurescript and other similar projects [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span style="color: #222222;">We all know that Javascript is powerful but it can be a really </span><span style="color: #222222;">terrible language when misused. </span><span style="color: #222222;">Moreover, it lacks several advanced features that are taken for</span><br style="color: #222222;" /><span style="color: #222222;">granted in other languages.</span><br style="color: #222222;" /><br style="color: #222222;" /><span style="color: #222222;">One technique that is always overlooked is metaprogramming: </span><span style="color: #222222;">hystorically only lisp dialects support it properly, and programmers </span><span style="color: #222222;">regularly underestimate its power.</span><br style="color: #222222;" /><br style="color: #222222;" /><span style="color: #222222;">In the spirit of Coffeescript, Typescript, Clojurescript and other </span><span style="color: #222222;">similar projects I have developed Metascript, which is designed to </span><span style="color: #222222;">provide everything those languages offer, and then some, with a strong </span><span style="color: #222222;">emphasis on metaprogramming.</span><br style="color: #222222;" /><br style="color: #222222;" /><span style="color: #222222;">We’ll have a quick tour of the language and see how it solves a lot of </span><span style="color: #222222;">the problems that we need to deal with every day when writing code.</span></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Flow-Based Programming for JavaScript</title>
+		<link>/talk/flow-based-programming-for-javascript/</link>
+		<pubDate>Wed, 16 Apr 2014 19:54:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=330</guid>
+		<description><![CDATA[NoFlo is a flow-based programming environment for JavaScript. Originally built for Node.js systems automation, it can also be used for developing full-stack applications from the browser to microcontrollers like Arduino. With NoFlo developers build their applications by wiring data streams together between different pre-built or custom components. The NoFlo environment is fully browser-based and can [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span style="color: #000000;">NoFlo is a flow-based programming environment for JavaScript. Originally built for Node.js systems automation, it can also be used for developing full-stack applications from the browser to microcontrollers like Arduino.</p>
+<p>With NoFlo developers build their applications by wiring data streams together between different pre-built or custom components. The NoFlo environment is fully browser-based and can connect to NoFlo instances running on remote servers, allowing inspection and rewiring of running software.</p>
+<p>The NoFlo development environment is open source and was successfully crowdfunded on Kickstarter in fall 2013. Now it is time to show the world how it works.</p>
+<p>You can learn more about NoFlo at http://noflojs.org/</span></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Web Audio API: the modular synth and sound processor at your fingertips</title>
+		<link>/talk/web-audio-api-the-modular-synth-and-sound-processor-at-your-fingertips/</link>
+		<pubDate>Tue, 08 Apr 2014 19:32:33 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=324</guid>
+		<description><![CDATA[Given its modularity the Web Audio API is a powerful tool to build audio applications in the browser. This talk will give a short overview on the API and an in-depth look at some of the technologies used to make it work. It will also include a short introduction to the most important properties and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Given its modularity the Web Audio API is a powerful tool to build audio applications in the browser. This talk will give a short overview on the API and an in-depth look at some of the technologies used to make it work. It will also include a short introduction to the most important properties and problems of digital sound processing.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Firefox OS: Unicorns and Rainbows</title>
+		<link>/talk/firefox-os-unicorns-and-rainbows/</link>
+		<pubDate>Wed, 02 Apr 2014 19:09:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=284</guid>
+		<description><![CDATA[The past years there has been some heavy debate over web vs. native for mobile applications. But to be honest, it has never been a fair game as the web was lacking crucial functionality. No access to sensors, not available offline. Essentially: the mobile web is broken. Luckily if something is broken, we can fix [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The past years there has been some heavy debate over web vs. native for mobile applications. But to be honest, it has never been a fair game as the web was lacking crucial functionality. No access to sensors, not available offline. Essentially: the mobile web is broken. Luckily if something is broken, we can fix it! Firefox OS, the new mobile operating system from Mozilla, runs completely on top of web technology. And that means that every cool and awesome feature in your smartphone now has a JavaScript API. So in this talk we&#8217;ll look at how the mobile web has progressed in the past years, how Firefox OS works and how to build for it, and how Firefox OS will be the driving force behind all innovation on the mobile web.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>MongoDB, Node.js and You</title>
+		<link>/talk/mongodb-node-js-and-you/</link>
+		<pubDate>Thu, 27 Mar 2014 12:14:46 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=312</guid>
+		<description><![CDATA[Node.js, MongoDB, Express, AngularJS, how does this all tie together? Mitch walks you through the creation of an example app to demonstrate how to take advantage of Node.js and MongoDB, while leveraging features from AngularJS and Express for rapid prototyping that can survive a production launch.]]></description>
+				<content:encoded><![CDATA[<p>Node.js, MongoDB, Express, AngularJS, how does this all tie together? Mitch walks you through the creation of an example app to demonstrate how to take advantage of Node.js and MongoDB, while leveraging features from AngularJS and Express for rapid prototyping that can survive a production launch.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Taking your things to your web app using MQTT and Node.js</title>
+		<link>/talk/taking-your-things-to-your-web-app-using-mqtt-and-node-js/</link>
+		<pubDate>Tue, 25 Mar 2014 06:59:43 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=299</guid>
+		<description><![CDATA[MQTT is a publish/subscribe protocol for the Internet of Things (IoT). In this talk, we discuss what problems it solves, why the IoT need such a protocol, and the Node.js implementation! MQTT has been around for 20 years, but it is getting a lot of hype recently because it has almost no overhead, it is [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>MQTT is a publish/subscribe protocol for the Internet of Things (IoT). In this talk, we discuss what problems it solves, why the IoT need such a protocol, and the Node.js implementation!</p>
+<p>MQTT has been around for 20 years, but it is getting a lot of hype recently because it has almost no overhead, it is FAST, and it supports an offline mode.</p>
+<p>Using MQTT, you are now able to send and receive messages to and from things, directly in your Javascript application, both in Node.js and in the browser.<br />
+You can even receive the messages from your thing if you are offline, just when you connect back!</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Experiments in code, generative art in Javascript</title>
+		<link>/talk/experiments-in-code-generative-art-in-javascript/</link>
+		<pubDate>Sun, 23 Mar 2014 19:28:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=294</guid>
+		<description><![CDATA[Have fun wih Javascript is possible! In this talk we will presents some Javascript experiments for generative art projects. Generative art refers to art that in whole or in part has been created with the use of an autonomous system. Using simple algorithms and the power of Javascript, HTML5 and CSS3 we will show some [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Have fun wih Javascript is possible! In this talk we will presents some Javascript experiments for generative art projects. Generative art refers to art that in whole or in part has been created with the use of an autonomous system. Using simple algorithms and the power of Javascript, HTML5 and CSS3 we will show some creative code to perform generative art on the web. We will present some librarires such as processing.js, D3.js, Paper.js, three.js and Raphaël.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: 2014.jsday.it @ 2017-02-13 22:27:45 by W3 Total Cache -->

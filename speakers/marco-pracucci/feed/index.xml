@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Marco Pracucci &#8211; jsDay 2014</title>
+	<atom:link href="/speakers/marco-pracucci/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The international Javascript Conference</description>
+	<lastBuildDate>Tue, 13 May 2014 21:24:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>Out of the sandbox: developing native Desktop apps</title>
+		<link>/talk/out-of-the-sandbox-developing-native-desktop-apps/</link>
+		<pubDate>Sun, 23 Mar 2014 18:54:35 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=287</guid>
+		<description><![CDATA[We build web apps that runs on browser and server-side apps on Node.JS, but what&#8217;s about native Desktop applications? In this talk I will introduce node-webkit: an app runtime based on Chromium + Node.JS, you can use to build Desktop apps with JS and HTML, with no browser&#8217;s limitations like file-system calls or running native [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We build web apps that runs on browser and server-side apps on Node.JS, but what&#8217;s about native Desktop applications? In this talk I will introduce node-webkit: an app runtime based on Chromium + Node.JS, you can use to build Desktop apps with JS and HTML, with no browser&#8217;s limitations like file-system calls or running native code.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: 2014.jsday.it @ 2017-02-13 22:27:48 by W3 Total Cache -->

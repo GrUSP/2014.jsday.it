@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kresimir Antolic &#8211; jsDay 2014</title>
+	<atom:link href="/speakers/kresimir-antolic/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The international Javascript Conference</description>
+	<lastBuildDate>Tue, 13 May 2014 21:24:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>Chrome Dev Tools &#8211; A primer</title>
+		<link>/talk/chrome-dev-tools-a-primer/</link>
+		<pubDate>Sun, 23 Mar 2014 18:20:39 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=273</guid>
+		<description><![CDATA[Anyone who has developed a web application has experienced to some extent the magic of JavaScript. With the growing complexity of web applications the process of finding and solving problems has grown quite complex. On the other hand, different tools have emerged to help tackle such problems. This talk will present Chrome Developer Tools through [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Anyone who has developed a web application has experienced to some extent the magic of JavaScript. With the growing complexity of web applications the process of finding and solving problems has grown quite complex. On the other hand, different tools have emerged to help tackle such problems.<br />
+This talk will present Chrome Developer Tools through practical examples and advice necessary for developing Web applications.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: 2014.jsday.it @ 2017-02-13 22:27:46 by W3 Total Cache -->

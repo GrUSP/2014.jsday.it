@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Michal Budzynski &#8211; jsDay 2014</title>
+	<atom:link href="/speakers/michal-budzynski/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The international Javascript Conference</description>
+	<lastBuildDate>Tue, 13 May 2014 21:24:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>Using mouse &#038; keyboard in games is sooooo 2013.</title>
+		<link>/talk/using-mouse-keyboard-in-games-is-sooooo-2013/</link>
+		<pubDate>Sun, 23 Mar 2014 18:32:45 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=279</guid>
+		<description><![CDATA[The border between web, mobile &#38; console games is getting thinner &#38; thinner. With new WebAPIs, your browser is a platform almost as powerful as your operating system. So fasten your seatbelt and prepare for a journey into Web Gaming you never experienced before.]]></description>
+				<content:encoded><![CDATA[<p>The border between web, mobile &amp; console games is getting thinner &amp; thinner. With new WebAPIs, your browser is a platform almost as powerful as your operating system. So fasten your seatbelt and prepare for a journey into Web Gaming you never experienced before.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: 2014.jsday.it @ 2017-02-13 22:27:48 by W3 Total Cache -->
